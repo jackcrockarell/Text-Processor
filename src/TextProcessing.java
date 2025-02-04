@@ -3,7 +3,7 @@ import java.io.*;
 public class TextProcessing {
 
     public static void processCrimeStats(String inputFile) {
-        String outputDir = "output/"; // Ensure this directory exists
+        String outputDir = "output/";
         createOutputDir(outputDir);
 
         // File Writers for each category
@@ -26,10 +26,10 @@ public class TextProcessing {
                 // 1892 Summarized Stats (Handle multiline)
                 if ((lineNumber >= 695 && lineNumber <= 700) || (lineNumber >= 707 && lineNumber <= 711)) {
                     if (line.contains(";")) {
-                        // If the line has a semicolon, it's a full statistic, write immediately
+
                         writerSummarizedStats.println(line);
                     } else {
-                        // Otherwise, it's a broken stat; accumulate it
+
                         multiLineStat.append(line).append(" ");
                     }
                 }
@@ -57,7 +57,6 @@ public class TextProcessing {
         }
     }
 
-    // Helper method to create the output directory if it doesn’t exist
     private static void createOutputDir(String dir) {
         File directory = new File(dir);
         if (!directory.exists()) {
@@ -66,7 +65,12 @@ public class TextProcessing {
     }
 
     public static void main(String[] args) {
-        String inputFile = "RedRecordIdaBWells.txt"; // Path to your input file
+        String inputFile = "RedRecordIdaBWells.txt";
         processCrimeStats(inputFile);
+        System.out.println("=== REGULAR CRIME STATISTICS ===");
+        RegularCrimeStatsProcessor.processCrimeStats("output/CrimeStats.txt");
+
+        System.out.println("\n=== SUMMARY CRIME STATISTICS ===");
+        SummaryCrimeStatsProcessor.processSummaryCrimeStats("output/SummarizedStats.txt");
     }
 }

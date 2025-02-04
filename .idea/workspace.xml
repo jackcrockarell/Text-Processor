@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b50078c9-b003-4408-99a5-efb4f881d263" name="Changes" comment="txt file added" />
+    <list default="true" id="b50078c9-b003-4408-99a5-efb4f881d263" name="Changes" comment="txt file added">
+      <change afterPath="$PROJECT_DIR$/src/RegularCrimeStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularCrimeStatsProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SummaryCrimeStatsProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CrimeStats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CrimeSummaryStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SummaryCrimeStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TextProcessing.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738607670932</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="txt file added">
+      <option name="closed" value="true" />
+      <created>1738618470494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738618470494</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
