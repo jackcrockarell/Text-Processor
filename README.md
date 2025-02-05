@@ -18,7 +18,7 @@ This project is based on the pamphlet "A Red Record" by Ida B. Wells, which docu
 - **RegularCrimeStats.java** – Represents an individual crime statistic entry with details such as crime type, name, date, and location.
 - **RegularCrimeStatsProcessor.java** – Processes crime statistics from a text file, extracts structured crime data, and formats them into structured objects.
 - **SummaryCrimeStatsProcessor.java** – Processes summarized crime statistics, categorizes and counts different crimes, and handles special cases.
-- **TextProcessing.java** – Reads a text file containing crime statistics and processes the data into separate categories, saving results into different output files.
+- **TextProcessing.java** – Reads "A Red Record" text file containing crime statistics and processes the data into separate categories, saving results into different output files.
 - **UntitledSummaryStatsProcessor.java** – Processes and categorizes the 1892 unnamed summary statistics.
 - **TestStats.java** – Executes the crime statistics processors and prints the results to the console.
 
