@@ -12,17 +12,6 @@ Alabama, 25; Arkansas, 7; Florida, 7; Georgia, 24; Indian Territory, 1;
 Illinois, 3; Kansas, 2; Kentucky, 8; Louisiana, 18; Mississippi, 17;
 Missouri, 3; New York, 1; South Carolina, 15; Tennessee, 10; Texas, 8;
 Virginia, 10.
-Alabama, 22; Arkansas, 25; California, 3; Florida, 11; Georgia, 17; Idaho,
-8; Illinois, 1; Kansas, 3; Kentucky, 9; Louisiana, 29; Maryland, 1;
-Mississippi, 16; Missouri, 6; Montana, 4; New York, 1; North Carolina, 5;
-North Dakota, 1; Ohio, 3; South Carolina, 5; Tennessee, 28; Texas, 15;
-Virginia, 7; West Virginia, 5; Wyoming, 9; Arizona Territory, 3; Oklahoma,
-2.
-Rape, 46; murder, 58; rioting, 3; race prejudice, 6; no cause given, 4;
-incendiarism, 6; robbery, 6; assault and battery, 1; attempted rape, 11;
-suspected robbery, 4; larceny, 1; self-defense, 1; insulting women, 2;
-desperadoes, 6; fraud, 1; attempted murder, 2; no offense stated, boy and
-girl, 2.
 LYNCHING STATES
 Mississippi, 15; Arkansas, 8; Virginia, 5; Tennessee, 15; Alabama, 12;
 Kentucky, 12; Texas, 9; Georgia, 19; South Carolina, 5; Florida, 7;

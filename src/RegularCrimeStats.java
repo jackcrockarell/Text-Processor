@@ -1,4 +1,8 @@
-// RegularCrimeStats class to store individual crime details
+/**
+ * RegularCrimeStats class
+ * This class represents an individual crime statistic entry.
+ * It stores details such as crime type, name, date, and location.
+ */
 public class RegularCrimeStats {
     String crimeType;
     String name;

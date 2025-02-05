@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b50078c9-b003-4408-99a5-efb4f881d263" name="Changes" comment="txt file added">
-      <change afterPath="$PROJECT_DIR$/src/RegularCrimeStats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RegularCrimeStatsProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SummaryCrimeStatsProcessor.java" afterDir="false" />
+    <list default="true" id="b50078c9-b003-4408-99a5-efb4f881d263" name="Changes" comment="new classes added">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UntitledSummaryStatsProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CrimeStats.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CrimeSummaryStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SummaryCrimeStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/SummarizedStats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/SummarizedStats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RegularCrimeStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegularCrimeStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RegularCrimeStatsProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegularCrimeStatsProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SummaryCrimeStats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SummaryCrimeStatsProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SummaryCrimeStatsProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TextProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TextProcessing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,16 +45,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jackc/Coding/GitHub/csc240f24-hw1-jackcrock20&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/jackc/Coding/GitHub/csc240f24-hw1-jackcrock20"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jackc\Coding\IdeaProjects\TextProcessor" />
@@ -99,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738618470494</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new classes added">
+      <option name="closed" value="true" />
+      <created>1738628931079</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738628931080</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="txt file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="txt file added" />
+    <MESSAGE value="new classes added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new classes added" />
   </component>
 </project>
