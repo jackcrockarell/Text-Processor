@@ -2,6 +2,7 @@
 
 ### Overview
 This project is a Java-based text processing system that extracts, organizes, and analyzes crime statistics from historical text documents. The system processes structured and unstructured text data, separating prose from statistical information and formatting it into a structured output.
+
 This project is based on the pamphlet "A Red Record" by Ida B. Wells, which documents lynching statistics and racial violence in the United States during the late 19th century.
 
 ### Features
