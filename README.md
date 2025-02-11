@@ -23,12 +23,10 @@ This project is based on the pamphlet "A Red Record" by Ida B. Wells, which docu
 - **TestStats.java** – Executes the crime statistics processors and prints the results to the console.
 
 ### How It Works
-1. **Reading Crime Data**
-   - The program reads raw text files containing crime statistics.
-2. **Processing Text Data**
+1. **Processing Text Data**
    - The `TextProcessing` class scans text files, differentiating between individual and summary statistics.
-3. **Extracting and Structuring Data**
+2. **Extracting and Structuring Data**
    - The `RegularCrimeStatsProcessor`, `SummaryCrimeStatsProcessor`, and `UntitledSummaryStatsProcessor` parse crime descriptions, dates, locations, and names.
-4. **Displaying and Analyzing Data**
+3. **Displaying and Analyzing Data**
    - Users can review extracted statistics for further analysis within the console of the `TestStats` class output.
 
